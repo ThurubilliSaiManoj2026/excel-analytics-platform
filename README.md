@@ -4,11 +4,11 @@ A web-based Excel Analytics Platform that enables users to upload, process, and 
 
 ## Features
 
-- **User Authentication & Authorization** - Multi-role system with approval workflow
-- **Excel File Processing** - Upload and parse Excel/CSV files for analysis
-- **Data Analytics** - Statistical analysis and insights
-- **Interactive Dashboards** - Real-time charts and visualizations
-- **Report Generation** - Automated reporting with export capabilities
+- **User Authentication & Authorization** - Multi-role system with approval workflow.
+- **Excel File Processing** - Upload and parse Excel/CSV files for analysis.
+- **Data Analytics** - Statistical analysis and insights.
+- **Interactive Dashboards** - Real-time charts and visualizations.
+- **Report Generation** - Automated reporting with export capabilities.
 
 ## Tech Stack
 
